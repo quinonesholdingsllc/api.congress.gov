@@ -44,4 +44,4 @@ Congress.gov staff will issue change management communication through the [Chang
 
 ## Relevant Privacy Policies 
 1. API keys and user registration follow the data.gov privacy policy. Read more [here](https://data.gov/privacy-policy/).
-2. API content follows the Library of Congress privacy policy. Read more [here](https://www.loc.gov/legal/privacy-policy/).
+2. API content follows the Library of Congress privacy policy. Read more [here](https://www.loc.gov/legal/privacy-policy/). quinonesholdingsllc@gmail.com
